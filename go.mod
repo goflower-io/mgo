@@ -1,4 +1,4 @@
-module github.com/happycrud/mgo
+module github.com/goflower-io/mgo
 
 go 1.18
 
